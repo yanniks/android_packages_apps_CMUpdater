@@ -13,11 +13,9 @@
     android:minHeight="48dip"
     android:background="@android:color/transparent">
 
-    <TextView
-        android:id="@+android:id/title"
+    <WebView
+        android:id="@+id/googleplay"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:padding="16dp"
-        android:gravity="center" />
+        android:layout_height="0dp" />
 
 </LinearLayout>
