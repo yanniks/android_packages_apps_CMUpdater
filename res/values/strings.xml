@@ -12,7 +12,7 @@
     <string name="app_name">CM Updater</string>
     <string name="display_name">Updates</string>
     <string name="unknown">Unknown</string>
-    <string name="loading">Loading...</string>
+    <string name="loading">Press back button</string>
 
     <!-- Menu and dialog box strings -->
     <string name="menu_refresh">Refresh</string>
