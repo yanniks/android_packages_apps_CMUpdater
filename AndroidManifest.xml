@@ -6,6 +6,9 @@
     <uses-sdk
         android:minSdkVersion="17"
         android:targetSdkVersion="17" />
+    
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
 
     <application
         android:icon="@drawable/ic_launcher"
