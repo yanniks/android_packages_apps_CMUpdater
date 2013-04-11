@@ -28,6 +28,7 @@
                 <category android:name="com.android.settings.SHORTCUT" />
             </intent-filter>
         </activity>
+        <activity android:name=".StartUpdate" />
     </application>
 
 </manifest>
